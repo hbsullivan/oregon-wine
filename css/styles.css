@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(173, 26, 26);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.top-image{
+  display: block;
+  width: 90%;
+  height: 200px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.intro {
+  text-align: center;
+  border: 2px black solid;
+  margin: 5px;
+}
+
+.link {
+  color: white;
+}
+
+.ava {
+  float: right;
+  width: 40%;
+  border: 2px black solid;
+  margin: 5px;
+  text-align: center;
+  font-size: x-large;
+}
+
+.grapes {
+  float: left;
+  width: 40%;
+  border: 2px black solid;
+  margin: 5px;
+  text-align: center;
+  font-size: x-large;
+}
