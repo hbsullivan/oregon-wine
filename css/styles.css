@@ -26,6 +26,11 @@ body {
   color: white;
 }
 
+a:hover{
+  text-decoration: none;
+}
+
+
 .ava {
   float: right;
   width: 40%;
