@@ -18,7 +18,8 @@ _This website is meant to give a brief overview of Oregon Wine Country. This inc
 
 * _Clone this repository to the Desktop_
 * _Navigate to the top level of the directory_
-* _open index.html in the browser_
+* _Open index.html in the browser_
+* _Can also reach site by using link https://hbsullivan.github.io/oregon-wine/
 
 
 ## Known Bugs
